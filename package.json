@@ -1,6 +1,6 @@
 {
   "name": "zhubo-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "zhubo-cli 脚手架",
   "main": "index.js",
   "scripts": {
