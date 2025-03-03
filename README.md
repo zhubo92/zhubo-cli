@@ -17,6 +17,9 @@ zhubo create
 # 输入项目文件夹名称并选择模板创建新项目
 zhubo create [projectName]
 
+# 更新脚手架到最新版本
+zhubo update
+
 # 查看脚手架版本
 zhubo -v
 zhubo --version

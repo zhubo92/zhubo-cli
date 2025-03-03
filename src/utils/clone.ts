@@ -5,7 +5,7 @@ import chalk from "chalk";
 // 初始化进度条
 const logger = createLogger({
     spinner: {
-        interval: 100,
+        interval: 300,
         frames: ['⠋', '⠙', '⠹', '⠸', '⠼', '⠴', '⠦', '⠧', '⠇', '⠏'].map(item => chalk.green(item))
     }
 });
